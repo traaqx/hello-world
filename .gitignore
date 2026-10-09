@@ -1,0 +1,8 @@
+# Created by venv; see https://docs.python.org/3/library/venv.
+#Environmet Variable
+.env
+#python cache
+_pycache_/
+*.py[cod]
+#SQLlite database
+db.sqlite3
